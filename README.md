@@ -37,4 +37,4 @@ snwu@mail.ncku.edu.tw
 
 ---
 
-2025-05-30: Standardized to Markdown, and separated.
+2025-05-30: Standardized to Markdown.
