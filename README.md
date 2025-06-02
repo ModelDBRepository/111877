@@ -30,10 +30,10 @@ The trace from voltage-clamp simulation of 'cagk.mod' in NEURON was reproduced:
 
 ## The model file was supplied by
 
-Dr. Sheng-Nan Wu
-National Cheng Kung University Medical College
-Tainan 70101, Taiwan
-snwu@mail.ncku.edu.tw
+Dr. Sheng-Nan Wu  
+National Cheng Kung University Medical College  
+Tainan 70101, Taiwan  
+snwu@mail.ncku.edu.tw  
 
 ---
 
